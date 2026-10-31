@@ -4,7 +4,7 @@
 ✨ A tech-savvy Computer Engineering student at UMIT, Mumbai.<br/>
 💡 Passionate about coding, innovation, and creative problem-solving.<br/>
 🤝 Interested in collaborative projects and open to learning from others.<br/>
-🧠 Skilled in C, C++, Java, HTML, CSS, Embedded C++.<br/>
+🧠 Skilled in Python, Dart, C++, Java(Basics), Embedded C++.<br/>
 🚀 Driven to apply my skills and creativity to build solutions that make a lasting impact.!<br/>
 
 <!--
